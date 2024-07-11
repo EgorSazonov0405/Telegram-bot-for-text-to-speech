@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">__Telegram bot for text to speech__</h1>
+<h1 style="text-align:center;">Telegram bot for text to speech</h1>
 
 - This is a project to create a telegram bot for voice-over texts in English and Russian. 
 
