@@ -1,3 +1,5 @@
+<h1 style="text-align:center;">__Telegram bot for text to speech__</h1>
+
 - This is a project to create a telegram bot for voice-over texts in English and Russian. 
 
 - As input, the bot requests a message, then the text of this message is translated into audio format and sent to the user. 
